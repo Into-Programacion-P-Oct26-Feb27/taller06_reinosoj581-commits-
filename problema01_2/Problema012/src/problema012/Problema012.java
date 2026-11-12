@@ -26,7 +26,7 @@ public class Problema012 {
         System.out.println("5 Modulo");
         System.out.println("6 Potencia");
 
-        System.out.print("Ingrese unnumero: ");
+        System.out.print("Ingrese un numero: ");
         double num1 = sc.nextDouble();
 
         System.out.print("Ingrese un numero: ");
